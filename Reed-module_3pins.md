@@ -1,1 +1,1 @@
-reed-module_3pins
+# Reed Module - 3pins
