@@ -9,7 +9,7 @@
 
 [2-pin (cable) Reed sensor]
 
-[3-pin Reed sensor](https://srituhobby.com/arduino-reed-switch-tutorial-how-to-use-arduino-reed-switch/)
+[3-pin Reed sensor](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/Reed-module_3pins.md)
 
 [4-Pin Reed Sensor with Arduino](https://arduinomodules.info/ky-025-reed-switch-module/)
 
