@@ -1,5 +1,7 @@
 # Tutorial: Turn-on a 5-12V 5W Bulb LED with a reed sensor
 
+This tutorial uses an IRLZ44N logic-level MOSFET.
+
 ---
 ### Hardware
 
@@ -7,7 +9,7 @@
   
 - 5-12V, 5-10W LED bulb
 
-- MOSFET IRLZ44N (will manage high current)
+- MOSFET IRLZ44N (will manage high current and act like a switch)
   
 - 100 ohms resistor
 
