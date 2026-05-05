@@ -16,7 +16,7 @@
 ---
 ### Wiring (option 1): Turn LED *ON* when magnet is close
 
-[See diagram here - ON LED]
+[See diagram here - ON LED](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/2pin-Reed_ON_bb.jpg)
 
 
 ---
