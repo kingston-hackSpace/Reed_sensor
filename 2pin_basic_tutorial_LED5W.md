@@ -25,11 +25,11 @@ The MOSFET safely switches the high current required by the LED.
 ---
 ### Note on COB lights
 
-This tutorial is NOT SUITABLE for bare COB lightings such as [COB filaments](https://www.adafruit.com/product/5504) or [COB chips](https://www.voltaat.com/products/2w-cob-led-chip-12v). Among COB lights, only [COB LED strips](https://thepihut.com/products/ultra-flexible-5v-natural-white-led-strip-320-leds-per-meter-1-meter-long-4000k-color) are allowed. COB LED strips have internal circuitry for current limiting. 
+This tutorial is NOT SUITABLE for bare COB lightings such as [COB filaments](https://www.adafruit.com/product/5504) or [COB chips](https://www.voltaat.com/products/2w-cob-led-chip-12v). Among COB lights, only [COB LED strips](https://thepihut.com/products/ultra-flexible-5v-natural-white-led-strip-320-leds-per-meter-1-meter-long-4000k-color) can be used in this tutorial (with the corresponding maximum powering values). COB LED strips have internal circuitry for current limiting, which makes them suitable for this tutorial. 
 
-If using a COB filament is required, you need a *constant-current LED driver* instead of the common power supplied provided by hackSpace. 
+If using a COB filament is required for your project, you need a *constant-current LED driver* instead of the common power supplied provided by hackSpace.
 
-See more about [LED drivers here](https://www.arrowelectricals.co.uk/interior-lighting/accessories/led-drivers/)
+See more about [LED drivers here] - link pending
 
 ---
 ### Wiring (option 1): Turn LED *ON* when magnet is close
