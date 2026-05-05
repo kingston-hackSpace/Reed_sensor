@@ -22,4 +22,4 @@
 ---
 ### Wiring (option 2): Turn LED *OFF* when magnet is close
 
-[See diagram here - OFF LED]
+[See diagram here - OFF LED](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/2pin-Reed_OFF_bb.jpg)
