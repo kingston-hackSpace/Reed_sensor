@@ -26,7 +26,7 @@ Typical small reed switches are designed for **low voltage and low current**. Th
 
 [Tutorial: Turn on a 3V LED with a reed sensor](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/2pin_basic_tutorial_LED.md)
 
-[Tutorial: Turn on a 12V 5W bulb with a reed sensor]
+[Tutorial: Turn on a 12V 5W bulb with a reed sensor](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/2pin_basic_tutorial_LED5W.md)
 
 ----
 ### 2-pin Reed Switch (bare) with Arduino
