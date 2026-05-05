@@ -1,16 +1,26 @@
 # Reed sensor
 
-Also called a *reed switch*, it responds to changes in a nearby magnetic field. When a magnet approaches, the internal contacts close and complete the circuit; when the magnet moves away, the contacts open again.
+----
+### Description
+A ***reed sensor***, also called a ***reed switch***, is an electromechanical sensor that responds to the presence of a magnetic field. When a magnet approaches, the internal contacts close and complete the circuit; when the magnet moves away, the contacts open again.
 
 Typical applications include door and window sensors in alarm systems, fridges, lid detection systems, and many other position-sensing tasks.
 
 [More about reed sensors here](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/reed-switches-guide)
 
 ----
+### Powering
+Typical small reed switches are designed for **low voltage and low current**. They should **not be used directly to switch high‑power loads** without additional circuitry (e.g. a transistor, MOSFET, or relay.)
+
+• Maximum voltage: **12 V**
+• Maximum switching current: **20 mA**
+• Maximum power: **0.25 W**
+
+----
 # Tutorials
 
 ----
-### 2-pin Reed Switch (bare) standalone (without micro-controllers)
+### 2-pin Reed Switch  standalone (without micro-controllers)
 
 [Tutorial: Turn on a 3V LED with a reed sensor]
 
