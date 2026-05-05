@@ -4,12 +4,20 @@ Also called a *reed switch*, it responds to changes in a nearby magnetic field. 
 
 Typical applications include door and window sensors in alarm systems, fridges, lid detection systems, and many other position-sensing tasks.
 
-You can find them as a bare two-pin switch, or mounted on a small module with three or four pins.
+You can find them as a bare two-pin switch, or mounted on a small module with three or four pins. See reed sensor types below:
 
 ----
 # Tutorials
+
 ----
-### 2-pin Reed Switch (bare)
+### 2-pin Reed Switch (bare) standalone (without micro-controllers)
+
+[Tutorial: Turn on a 3V LED with a reed sensor]
+
+[Tutorial: Turn on a 12V 5W bulb with a reed sensor]
+
+----
+### 2-pin Reed Switch (bare) with Arduino
 
 Using the bare 2-pin reed switch requires a pull-up resistor or:
 
