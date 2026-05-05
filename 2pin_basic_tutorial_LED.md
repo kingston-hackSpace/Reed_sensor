@@ -3,13 +3,25 @@
 ---
 ### Hardware
 
-- 3V LED
+- 2-pin reed sensor
+  
+- 3V LED 
 
 - 220 ohms resistor
 
-- Reed sensor
+- Power supply 3V (or 2xAA battery)
 
-- Power supply 3V
+- Magnet
+  
+---
+### Wiring : Turn LED *ON* when magnet is close
+
+(+3V) ── Reed Switch ── Resistor ── LED ── GND
+
+[See diagram here - ON LED]
+
 
 ---
-### Wiring 
+### Wiring : Turn LED *OFF* when magnet is close
+
+[See diagram here - OFF LED]
