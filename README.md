@@ -4,7 +4,7 @@ Also called a *reed switch*, it responds to changes in a nearby magnetic field. 
 
 Typical applications include door and window sensors in alarm systems, fridges, lid detection systems, and many other position-sensing tasks.
 
-You can find them as a bare two-pin switch, or mounted on a small module with three or four pins. See reed sensor types below:
+[More about reed sensors here](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/reed-switches-guide)
 
 ----
 # Tutorials
