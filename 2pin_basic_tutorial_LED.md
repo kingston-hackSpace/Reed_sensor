@@ -14,12 +14,12 @@
 - Magnet
   
 ---
-### Wiring : Turn LED *ON* when magnet is close
+### Wiring (option 1): Turn LED *ON* when magnet is close
 
 [See diagram here - ON LED]
 
 
 ---
-### Wiring : Turn LED *OFF* when magnet is close
+### Wiring (option 2): Turn LED *OFF* when magnet is close
 
 [See diagram here - OFF LED]
