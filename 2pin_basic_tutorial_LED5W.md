@@ -1,4 +1,4 @@
-# Tutorial: Turn-on a 5-12V 5-10W LED light with a reed sensor
+# Tutorial: Turn-on a 5-12V 10W LED light with a reed sensor
 
 This tutorial uses an IRLZ44N logic-level MOSFET.
 
