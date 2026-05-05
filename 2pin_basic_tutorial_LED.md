@@ -16,8 +16,6 @@
 ---
 ### Wiring : Turn LED *ON* when magnet is close
 
-(+3V) ── Reed Switch ── Resistor ── LED ── GND
-
 [See diagram here - ON LED]
 
 
