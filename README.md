@@ -10,7 +10,7 @@ Typical applications include door and window sensors in alarm systems, fridges, 
 
 ----
 ### Powering
-Typical small reed switches are designed for **low voltage and low current**. They should **not be used directly to switch high‑power loads** without additional circuitry (e.g. a transistor, MOSFET, or relay.)
+Typical small reed switches are designed for **low current** (usually under 500 mA). They should **not be used directly to switch high‑power loads** without additional circuitry (e.g. a transistor, MOSFET, or relay.)
 
 ----
 # Tutorials
