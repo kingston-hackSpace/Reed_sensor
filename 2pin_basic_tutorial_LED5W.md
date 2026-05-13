@@ -18,7 +18,7 @@ The MOSFET safely switches the high current required by the LED.
 
 - 10K resistor
 
-- Power supply 5-12V, **1.5A** or higher
+- Power supply: 5V 2A | 12V 1.5A
 
 - Magnet
   
