@@ -12,12 +12,6 @@ Typical applications include door and window sensors in alarm systems, fridges, 
 ### Powering
 Typical small reed switches are designed for **low voltage and low current**. They should **not be used directly to switch high‑power loads** without additional circuitry (e.g. a transistor, MOSFET, or relay.)
 
-• Maximum voltage: **12 V**
-
-• Maximum switching current: **20 mA**
-
-• Maximum power: **0.25 W**
-
 ----
 # Tutorials
 
