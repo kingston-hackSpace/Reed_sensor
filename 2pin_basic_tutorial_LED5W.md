@@ -36,9 +36,9 @@ See more about [LED drivers here](https://github.com/kingston-hackSpace/All-abou
 ---
 ### Wiring (option 1): Turn LED *ON* when magnet is close
 
-[See diagram here - ON LED]
+[See diagram here - ON LED](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/10WLEDbulb-reed_ON_bb.jpg)
 
 ---
 ### Wiring (option 2): Turn LED *OFF* when magnet is close
 
-[See diagram here - OFF LED]
+[See diagram here - OFF LED](https://github.com/kingston-hackSpace/Reed_sensor/blob/main/10WLEDbulb-reed_OFF_bb.jpg)
