@@ -1,6 +1,6 @@
 # Tutorial: Turn-on a 5-12V 10W LED light with a reed sensor
 
-A 10W LED bulb requires more current than what a reed sensor can handle. If the reed sensor is connected to the bulb and power without a MOSFET, the current in the circuit will burn the reed switch. 
+A 10W LED bulb demands more current than what a reed sensor can handle. If the reed sensor is connected to the bulb and power without a MOSFET, the current in the circuit will burn the reed switch. 
 
 For this reason, this tutorial uses an IRLZ44N logic-level MOSFET.
 
